@@ -1,2 +1,2 @@
-# The secret in testing is in writing testable-code!
+# The secret in testing is in writing testable-code
 
