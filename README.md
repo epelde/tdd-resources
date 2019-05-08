@@ -3,7 +3,7 @@
 The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code.
 
 ## Don't know what to test?
-Test only the interface, not the implementation. Doing so will allow us to change the implementation without causing our tests to break.
+Test only the interface, not the implementation. Doing so will allow us to change the implementation without causing our tests to break. It’s an overspecification that adds costs, and absolutely no value.
 
 ## Courses
 
