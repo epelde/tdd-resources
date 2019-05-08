@@ -2,7 +2,7 @@
 
 The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code.
 
-## What to test
+## Don't know what to test?
 Test only the interface, not the implementation!
 
 ## Courses
