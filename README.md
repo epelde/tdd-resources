@@ -4,7 +4,7 @@ The TDD cycle is very detail-oriented and requires you to make some design decis
 
 ## Articles
 
-**Mocks aren't stubs.** In this article Martin Fowler talks about a different style of testing using mock objects. State verifaction (stubs) vs Behaviour verification (mocks) https://martinfowler.com/articles/mocksArentStubs.html
+**Mocks aren't stubs.** In this article Martin Fowler talks about *behaviour verification*, a different style of testing using mock objects vs *state verifaction* using stubs objects. https://martinfowler.com/articles/mocksArentStubs.html
 
 ## Talks
 
