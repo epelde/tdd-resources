@@ -7,11 +7,11 @@ Test only the interface, not the implementation. Doing so will allow us to chang
 
 ## Articles
 
-1. *Mocks aren't stubs.*
-
-In this article Martin Fowler talks about adifferent style of testing using mock objects. State verifaction (stubs) vs Behaviour verification (mocks) https://martinfowler.com/articles/mocksArentStubs.html
+*Mocks aren't stubs.* In this article Martin Fowler talks about adifferent style of testing using mock objects. State verifaction (stubs) vs Behaviour verification (mocks) https://martinfowler.com/articles/mocksArentStubs.html
 
 ## Talks
+
+*The Magic Tricks of Testing by Sandi Metz.* Don't now what to test and what not? https://www.youtube.com/watch?v=URSWYvyc42M
 
 ## Courses
 
