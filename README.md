@@ -2,6 +2,8 @@
 
 The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code.
 
+> Obviously those who do TDD know that TDD drastically helps to enforce good design.
+
 ## Articles
 
 **Mocks aren't stubs.** In this article Martin Fowler talks about *behaviour verification*, a different style of testing using mock objects vs *state verifaction* using stubs objects. This article also clarifies what types of *test doubles* can be used in order to improve our tests. https://martinfowler.com/articles/mocksArentStubs.html
