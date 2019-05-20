@@ -1,6 +1,6 @@
 # The secret in testing is in writing testable-code
 
-The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code. Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.
+The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code. **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
 
 > Obviously those who do TDD know that TDD drastically helps to enforce good design.
 
