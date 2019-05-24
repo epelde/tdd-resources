@@ -20,6 +20,8 @@ Esto podemos tratar de evitarlo aplicando TDD.
 
 **The Magic Tricks of Testing by Sandi Metz.** Don't now what to test and what not to? Test only the interface, not the implementation. Doing so will allow us to change the implementation without causing our tests to break. It’s an overspecification that adds costs, and absolutely no value. https://www.youtube.com/watch?v=URSWYvyc42M
 
+[https://github.com/epelde/tdd-resources/blob/master/assets/test_tricks.png]
+
 ## Courses
 
 *The World's Best Intro to TDD, Level 1: TDD Done Right* https://online-training.jbrains.ca/p/wbitdd-01
