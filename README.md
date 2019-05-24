@@ -4,11 +4,11 @@ The TDD cycle is very detail-oriented and requires you to make some design decis
 
 > Obviously those who do TDD know that TDD drastically helps to enforce good design.
 
-Como bien me dijo Xabi que le dijo Luis Artola:
+Como bien me dijo Xabi Saez de Ocariz que le dijo Luis Artola:
 
 > Los frameworks te hacen ir rápido cuando deberías de ir despacio.
 
-Eso podemo evitarlo aplicando TDD.
+Esto podemos tratar de evitarlo aplicando TDD.
 
 **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
 
