@@ -16,10 +16,6 @@ Tests deserve the same respect as our production code. So **RESPECT** them!
 
 Esto podemos tratar de evitarlo aplicando TDD.
 
-## Articles
-
-**Mocks aren't stubs.** In this article Martin Fowler talks about *behaviour verification*, a different style of testing using mock objects vs *state verifaction* using stubs objects. This article also clarifies what types of *test doubles* can be used in order to improve our tests. https://martinfowler.com/articles/mocksArentStubs.html
-
 ## Talks
 
 **The Magic Tricks of Testing by Sandi Metz.** Don't now what to test and what not to? Test only the interface, not the implementation. Doing so will allow us to change the implementation without causing our tests to break. It’s an overspecification that adds costs, and absolutely no value. https://www.youtube.com/watch?v=URSWYvyc42M
