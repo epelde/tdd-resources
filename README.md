@@ -4,7 +4,7 @@
 
 What does this mean? **Testing bad code (badly designed code) is difficult**.
 
-> The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to enforce good design.
+> The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to **enforce good design**.
 
 Nota mental: lo que me gusta de TDD es que me hace "ir más lento" (en el buen sentido) y pensar en como quiero que se relacionen y colaboren los distintos colaboradores. 
 
