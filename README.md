@@ -6,7 +6,7 @@ What does this mean? **Testing bad code (badly designed code) is difficult**.
 
 > The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to **enforce good design**.
 
-Nota mental: lo que me gusta de TDD es que me hace "ir más lento" (en el buen sentido) y pensar en como quiero que se relacionen y colaboren los distintos colaboradores. 
+It's seems it's all about developing in a slower way to be able to think about how I want the different collaborators to relate and collaborate.
 
 Como bien me dijo Xabi Saez de Ocariz que le dijo Luis Artola:
 
@@ -14,7 +14,7 @@ Como bien me dijo Xabi Saez de Ocariz que le dijo Luis Artola:
 
 Esto podemos tratar de evitarlo aplicando TDD.
 
-**Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
+> **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
 
 ## Articles
 
