@@ -1,5 +1,7 @@
 # The secret in testing is in writing testable-code
 
+What does this mean? **Testing bad code (badly designed code) is difficult**.
+
 The TDD cycle is very detail-oriented and requires you to make some design decisions when writing tests, rather than when writing production code. Nota mental: lo que me gusta de TDD es que me hace "ir más lento" (en el buen sentido) y pensar en como quiero que se relacionen y colaboren los distintos colaboradores.
 
 > Obviously those who do TDD know that TDD drastically helps to enforce good design.
