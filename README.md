@@ -15,7 +15,3 @@ Tests deserve the same respect as our production code. Apply merciless **refacto
 > Los frameworks te hacen ir rápido cuando deberías de ir despacio (Luis Artola en boca de Xabi Saez de Ocariz).
 
 Esto podemos tratar de evitarlo aplicando TDD.
-
-## Courses
-
-*The World's Best Intro to TDD, Level 1: TDD Done Right* https://online-training.jbrains.ca/p/wbitdd-01
