@@ -10,7 +10,7 @@ It's seems it's all about developing in a **"slower" (slow id good)** way to be 
 
 > **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
 
-Tests deserve the same respect as our production code. So **RESPECT** them!
+Tests deserve the same respect as our production code. Apply merciless **refactoring**, just as one should do for production code.
 
 > Los frameworks te hacen ir rápido cuando deberías de ir despacio (Luis Artola en boca de Xabi Saez de Ocariz).
 
