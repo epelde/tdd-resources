@@ -8,13 +8,13 @@ What does this mean? **Testing bad code (badly designed code) is difficult**.
 
 It's seems it's all about developing in a slower way to be able to think about how I want the different collaborators to relate and collaborate.
 
-Como bien me dijo Xabi Saez de Ocariz que le dijo Luis Artola:
-
-> Los frameworks te hacen ir rápido cuando deberías de ir despacio.
+> Los frameworks te hacen ir rápido cuando deberías de ir despacio (Luis Artola en boca de Xabi Saez de Ocariz).
 
 Esto podemos tratar de evitarlo aplicando TDD.
 
 > **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
+
+Tests deserve the same respect as our production code.
 
 ## Articles
 
