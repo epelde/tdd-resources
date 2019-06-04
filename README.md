@@ -1,4 +1,4 @@
-# Intro to TDD
+# My honest intro to TDD
 
 > The secret in testing is in writing testable-code
 
