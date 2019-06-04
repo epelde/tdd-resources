@@ -6,7 +6,7 @@ What does this mean? **Testing bad code (badly designed code) is difficult**.
 
 > The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to **enforce good design**.
 
-It's seems it's all about developing in a slower way to be able to think about how I want the different collaborators to relate and collaborate. Maybe we can improve our software quality applying TDD.
+It's seems it's all about developing in a "slower" (slow id good) way to be able to think about how I want the different collaborators to relate and collaborate. Maybe we can improve our software quality applying TDD.
 
 > Los frameworks te hacen ir rápido cuando deberías de ir despacio (Luis Artola en boca de Xabi Saez de Ocariz).
 
