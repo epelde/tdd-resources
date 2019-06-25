@@ -19,3 +19,5 @@ Esto podemos tratar de evitarlo aplicando TDD.
 # Unit (automated) testing
 
 Unit testing is about testing a single object (Subject Under Test) and test it by itself, in isolation, without worrying about the role it plays in the surrounding system. These tests are a safety net for further changes to tyhe code.
+
+https://blog.thecodewhisperer.com/junit-on-one-page.pdf
