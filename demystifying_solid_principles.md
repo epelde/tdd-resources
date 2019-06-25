@@ -1,1 +1,0 @@
-# Demystifying SOLID principles
