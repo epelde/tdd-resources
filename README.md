@@ -1,4 +1,4 @@
-# How do I (start to) see TDD
+# My opinions about TDD
 
 > The secret in testing is in writing testable-code
 
