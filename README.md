@@ -6,6 +6,8 @@ What does this mean? **Testing bad code (badly designed code) is difficult. So w
 
 > Detestable (adjective): software that isn't testable.
 
+(from someone at the Sydney XP group, whose name I sadly forgot. - Martin Fowler)
+
 > The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to **enforce good design**.
 
 **TDD is just as much about design as it is about test**. It's all about developing/designing in a **"slower" (slow id good)** way to be able to think about how I want the different collaborators to relate and collaborate. **Maybe we can improve our software quality applying TDD**. Quality is not negotiable. And here is where SOLID principles come to scene.
