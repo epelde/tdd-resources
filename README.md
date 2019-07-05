@@ -16,6 +16,8 @@ Recommended reading: The Definition of "Bad Design" https://drive.google.com/fil
 
 And yes, it takes time & money. So does fixing defects in production software. Recommended reading: Is High Quality Software Worth the Cost? by Martin Fowler https://martinfowler.com/articles/is-quality-worth-cost.html
 
+TDD as a software development flow.
+
 > **Test code is just as importante as production code. It is not a second-class citizen. It requieres thought, design and care. It must be kept as clean as production code.**
 
 Tests deserve the same respect as our production code. Apply merciless **refactoring**, just as one should do for production code.
