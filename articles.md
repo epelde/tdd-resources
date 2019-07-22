@@ -7,6 +7,8 @@
 
 **Test Smell: Everything is mocked.** Mocking all and each collaborator is a known antipattern. This tiny article talks about what not to mock. http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html?m=1
 
+**The Magic Tricks of Testing by Sandi Metz.** Don't now what to test and what not to? **Test only the interface, not the implementation**. Doing so will allow us to change the implementation without causing our tests to break. It’s an overspecification that adds costs, and absolutely no value. https://www.youtube.com/watch?v=URSWYvyc42M
+
 **Is High Quality Software Worth the Cost?** Talking about inner software quality.https://martinfowler.com/articles/is-quality-worth-cost.html
 
 **Odio los framework.** by Javi Santana http://javisantana.com/2019/04/07/odio-los-framework.html
