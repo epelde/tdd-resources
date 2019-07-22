@@ -12,9 +12,11 @@ What does this mean? **Testing bad code (badly designed code) is difficult. So w
 
 **TDD is just as much about design as it is about test**. It's all about developing/designing in a **"slower" (slow is good)** way to be able to think about how I want the different collaborators to relate and collaborate. Quality is not negotiable. **Maybe we can improve our software quality applying TDD but it's not enough**. And here is where SOLID principles come to scene.
 
-Recommended reading: **Does TDD really lead to good design?** https://codurance.com/2015/05/12/does-tdd-lead-to-good-design/
+Recommended reading: **Does TDD really lead to good design?** by Sandro Mancuso https://codurance.com/2015/05/12/does-tdd-lead-to-good-design/
 
-And yes, it takes time & money. So does fixing defects in production software. Recommended reading: Is High Quality Software Worth the Cost? by Martin Fowler https://martinfowler.com/articles/is-quality-worth-cost.html
+And yes, it takes time & money. So does fixing defects in production software.
+
+Recommended reading: **Is High Quality Software Worth the Cost?** by Martin Fowler https://martinfowler.com/articles/is-quality-worth-cost.html
 
 TDD as a software development flow.
 
