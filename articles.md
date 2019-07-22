@@ -7,5 +7,7 @@
 
 **Test Smell: Everything is mocked.** Mocking all and each collaborator is a known antipattern. This tiny article talks about what not to mock. http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html?m=1
 
+**Is High Quality Software Worth the Cost?** Talking about inner software quality.https://martinfowler.com/articles/is-quality-worth-cost.html
+
 **Odio los framework.** by Javi Santana http://javisantana.com/2019/04/07/odio-los-framework.html
 > Los frameworks te hacen ir rápido cuando deberías de ir despacio (Luis Artola en boca de Xabi Saez de Ocariz).
