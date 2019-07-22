@@ -1,12 +1,12 @@
 # My opinions about TDD
 
-> The secret in testing is in writing testable-code
-
-What does this mean? **Testing bad code (badly designed code) is difficult. So we should write code that is easy to test**. And this is all about **DESIGN**.
-
 > Detestable (adjective): software that isn't testable.
 
 (from someone at the Sydney XP group, whose name I sadly forgot. - Martin Fowler)
+
+> The secret in testing is in writing testable-code
+
+What does this mean? **Testing bad code (badly designed code) is difficult. So we should write code that is easy to test**. And this is all about **DESIGN**.
 
 > The TDD cycle is very detail-oriented and requires you to **make some design decisions when writing tests, rather than when writing production code**. Obviously those who do TDD know that TDD drastically helps to **enforce good design**.
 
