@@ -1,6 +1,6 @@
 # My opinions about TDD
 
-> Detestable (adjective): software that isn't testable.
+> Detestable (adjective) code: software that isn't testable.
 
 (from someone at the Sydney XP group, whose name I sadly forgot. - Martin Fowler)
 
