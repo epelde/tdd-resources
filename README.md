@@ -24,6 +24,8 @@ TDD as a software development flow.
 
 Tests deserve the same respect as our production code. Apply merciless **refactoring**, just as one should do for production code.
 
+> Understand how to write testable code in the first place. Then understand how to add tests to code that was already written.
+
 # Unit (automated) testing
 
 Unit testing is about testing a single object (Subject Under Test) and test it by itself, in isolation, without worrying about the role it plays in the surrounding system. These tests are a safety net for further changes to tyhe code.
