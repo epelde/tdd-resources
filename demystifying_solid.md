@@ -1,4 +1,4 @@
-# Demystifying SOLID
+# Understanding SOLID
 
 ## Single responsibility principle
 
